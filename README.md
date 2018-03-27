@@ -1,4 +1,5 @@
 # StructuredLightMeasure
 Structured light stereo vision measuring software
 
-Uses one projector and two cameras to measure a 3D point clound
+Generate sin fringes and grey code for phase unwrapping.
+Absolute phase maps are produced for homologous point finding.
